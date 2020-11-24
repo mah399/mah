@@ -1,0 +1,10 @@
+
+import os
+os.system ("clear")
+
+
+list6 = 100000
+
+while list6 < 999999 :
+        list6=list6+1
+        print (list6)
